@@ -11,7 +11,7 @@ namespace NumberGuessGame
         static void Main(string[] args)
         {
 
-            int sayi, hak = 5;
+            int sayi, hak = 3;
             Random rastgele = new Random();
             int b = 10, a = 0;
             int Rastgele = rastgele.Next(a, b);
